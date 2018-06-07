@@ -17,7 +17,7 @@ Web standards and appropriate fallbacks are required to be taken care of for acc
 If time permits:
 - Implementation of material design(materialize css) on the webpage
 
-Tasks:  
+## Tasks:  
 - Design content of the webpage
 - Implement D3.js on webpage with static data.
 - Deploy webpage in CakePHP.
